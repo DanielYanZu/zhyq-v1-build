@@ -1,0 +1,14 @@
+<svg width="80" height="80" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 顶部深蓝 -->
+  <path d="M100 10 L160 50 L100 90 L40 50 Z" fill="#2B4C7E" rx="10"/>
+  <!-- 左上蓝 -->
+  <path d="M35 55 L35 105 L85 135 L85 85 Z" fill="#5B7FB8" rx="8"/>
+  <!-- 左下蓝 -->
+  <path d="M35 115 L35 165 L85 195 L85 145 Z" fill="#5B7FB8" rx="8"/>
+  <!-- 右上绿 -->
+  <path d="M115 85 L165 55 L165 105 L115 135 Z" fill="#5FBFA5" rx="8"/>
+  <!-- 右下浅蓝 -->
+  <path d="M115 145 L165 115 L165 165 L115 195 Z" fill="#7CB9E8" rx="8"/>
+  <!-- 底部蓝 -->
+  <path d="M90 140 L100 135 L110 140 L110 190 L100 195 L90 190 Z" fill="#5B7FB8" rx="5"/>
+</svg>
